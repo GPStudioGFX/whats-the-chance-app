@@ -41,6 +41,11 @@ const styles = StyleSheet.create({
   },
   primary: {
     backgroundColor: colors.accent,
+    shadowColor: colors.accent,
+    shadowOffset: { width: 0, height: 4 },
+    shadowOpacity: 0.3,
+    shadowRadius: 12,
+    elevation: 8,
   },
   ghost: {
     backgroundColor: 'transparent',
@@ -53,7 +58,7 @@ const styles = StyleSheet.create({
   label: {
     color: colors.textPrimary,
     fontSize: typography.sizes.md,
-    fontWeight: typography.weights.bold,
+    fontFamily: typography.fonts.bold,
     letterSpacing: 0.5,
     textTransform: 'uppercase',
   },
