@@ -164,16 +164,49 @@ interface GameState {
 
 ---
 
-## Volgende stap na Fase 1
+## Alle resterende fases
 
-**Fase 2 — Core schermen** (volgorde):
-1. Home scherm (`src/app/index.tsx`) — thema carousel, PvP/PvGame knoppen
-2. Speler setup (`src/app/setup.tsx`) — alleen PvGame
-3. Thema kiezen (`src/app/theme.tsx`)
-4. Game instellingen (`src/app/game-settings.tsx`) — ter beschikking + spelsituatie + straf toggles
-5. Regels (`src/app/rules.tsx`)
+### Fase 2 — Core schermen
+Volgorde bouwen → testen → committen per scherm.
 
-**Referentiebestanden:**
+1. **Home** (`src/app/index.tsx`) — thema-carousel (horizontaal scrollend), PvP + PvGame knoppen, settings icon rechtsboven
+2. **Speler setup** (`src/app/setup.tsx`) — alleen PvGame; naam invoeren, PlayerChip per speler, minimaal 2 vereist
+3. **Thema kiezen** (`src/app/theme.tsx`) — Card per thema (Casual/Crazy/Party), toggle aan/uit, minimaal 1 verplicht
+4. **Game instellingen** (`src/app/game-settings.tsx`) — drie secties met toggles:
+   - Ter beschikking: Alcohol / Geld / Buiten / Avond (werkt in v1, filtert dares)
+   - Spelsituatie: Normale vragen (aan, niet uitschakelbaar), Groepsvragen (grijs/uitgeschakeld v2), Puntensysteem (grijs/uitgeschakeld v2)
+   - Straf: Kleine opdracht (aan v1), Puntenverlies (grijs v2), Slokken (grijs v2)
+5. **Regels** (`src/app/rules.tsx`) — genummerde lijst 4 regels, donkere achtergrond, "Start" knop
+
+### Fase 3 — PvP game loop
+1. **Dare scherm PvP** (`src/app/game/dare.tsx`) — toont huidige dare tekst, "Volgende" knop onderaan, random dare uit `DareRepository` met `usedDareIds` uitsluiting, auto-reset als pool leeg is
+2. Volledige PvP loop testen (meerdere dares, reset)
+3. Committen
+
+### Fase 4 — PvGame game loop
+1. **Dare + invoer** (`src/app/game/input.tsx`) — naam van random gekozen speler bovenaan, dare tekst, twee invoervelden: "1/X" (kans instellen) + "Jouw getal" (moet binnen 1–X vallen), validatie, bevestig knop
+2. **Reveal animatie** (`src/app/game/reveal.tsx`) — slot machine animatie via Reanimated die het random app-getal onthult (cijfer voor cijfer), navigeert automatisch naar result na animatie
+3. **Verloren scherm** (`src/app/game/result.tsx`) — "OUCH! JE HEBT KANS VERLOREN", dare tekst, "OF" scheidingslijn, straf tekst (kleine opdracht), "Volgende" knop
+4. **Veilig scherm** (`src/app/game/safe.tsx`) — "JE BENT VEILIG!", visueel ontwerp vrij te bepalen, "Volgende" knop
+5. Volledige PvGame loop testen (match + geen match)
+6. Committen
+
+### Fase 5 — Splash animatie
+1. **Splash scherm** (`src/app/splash.tsx` of als initieel scherm in `_layout.tsx`) — woord-voor-woord reveal via Reanimated: "WHAT'S" → "THE" → "CHANCE", daarna "LETS GO", navigeert automatisch naar Home
+2. Testen op device
+3. Committen
+
+### Fase 6 — Instellingen & polish
+1. **App instellingen** (`src/app/settings.tsx`) — taal (NL/EN), geluid aan/uit, over de app
+2. Schermovergangen verfijnen
+3. Haptics toevoegen (trillen bij match/veilig) via `expo-haptics`
+4. Lege states afhandelen (bijv. geen dares beschikbaar voor actieve filters)
+5. Testen op iOS én Android
+6. Committen
+
+---
+
+## Referentiebestanden
 - Design spec: `docs/superpowers/specs/2026-06-21-whats-the-chance-design.md`
 - Implementatieplan: `docs/superpowers/specs/2026-06-21-implementatieplan.md`
 - Claude Design: `claude design/Whats The Chance.html`
