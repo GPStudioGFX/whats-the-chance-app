@@ -20,6 +20,21 @@ De app kiest random welke speler de dare krijgt. Die speler vult een kans (1/X) 
 | Crazy | Gekke en bizarre dares |
 | Party | Feest-gerelateerde dares |
 
+## Game Instellingen (voor elke sessie)
+
+**Ter beschikking** — filtert dares op wat de groep beschikbaar heeft:
+Alcohol · Geld · Buiten · Avond
+
+**Spelsituatie** — vraagtypen:
+- Normale vragen (v1)
+- Groepsvragen (v2) — dare escaleert rond de tafel, kans daalt elke beurt
+- Puntensysteem (v2) — iedereen start met 1000 punten
+
+**Straf opties:**
+- Kleine opdracht (v1) — alternatief als je de dare weigert
+- Puntenverlies (v2)
+- Slokken (v2)
+
 ## Tech Stack
 
 - **Framework:** React Native + Expo (iOS & Android)
@@ -35,7 +50,9 @@ In ontwikkeling — v1 is volledig gratis, geen backend.
 
 ## Roadmap (v2+)
 
+- Groepsvragen mechanic
+- Puntensysteem (1000 punten, aftellen bij weigering)
+- Straf opties: puntenverlies en slokken
 - Eigen dares aanmaken
 - Online multiplayer
 - Premium thema's
-- Punten bijhouden

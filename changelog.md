@@ -13,3 +13,4 @@ Alle noemenswaardige wijzigingen aan dit project worden hier bijgehouden.
 - Design systeem: `colors`, `typography`, `spacing` tokens in `src/constants/`
 - Basiscomponenten: `Button`, `Card`, `Input`, `PlayerChip`
 - Zustand geïnstalleerd voor spelsessie state
+- Design spec uitgebreid: game instellingen scherm, ter beschikking filters, spelsituatie toggles, straf opties, groepsvragen mechanic (v2)

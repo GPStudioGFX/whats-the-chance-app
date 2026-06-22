@@ -58,6 +58,11 @@ Per scherm: bouwen → testen op device/simulator → committen.
   - Cards per thema (Casual / Crazy / Party)
   - Toggle aan/uit per thema
   - Standaard: Casual aan
+- [ ] **Game instellingen scherm** (`app/game-settings.tsx`)
+  - Sectie "Ter beschikking": toggles Alcohol / Geld / Buiten / Avond (v1, filtert dares)
+  - Sectie "Spelsituatie": Normale vragen (aan, niet uitschakelbaar v1), Groepsvragen (uitgeschakeld v2), Puntensysteem (uitgeschakeld v2)
+  - Sectie "Straf": Kleine opdracht (aan v1), Puntenverlies (uitgeschakeld v2), Slokken (uitgeschakeld v2)
+  - Instellingen opslaan in gameStore
 - [ ] **Regels scherm** (`app/rules.tsx`)
   - Genummerde lijst, 4 regels
   - Donkere achtergrond
