@@ -1,0 +1,170 @@
+[
+  {
+    "id": "party_001",
+    "text": "Doe het slechtste dansje dat je kunt voor 30 seconden terwijl iedereen kijkt.",
+    "punishment": "Doe 10 seconden lang een dansje dat je zelf verzint.",
+    "tags": [],
+    "type": "normal"
+  },
+  {
+    "id": "party_002",
+    "text": "Maak een toast op de meest dramatische, overdreven manier mogelijk.",
+    "punishment": "Maak een toast van één zin zonder dramatiek.",
+    "tags": [],
+    "type": "normal"
+  },
+  {
+    "id": "party_003",
+    "text": "Zing een liedje totdat de groep begint te applaudisseren.",
+    "punishment": "Zing de eerste twee regels van een liedje dat de groep kiest.",
+    "tags": [],
+    "type": "normal"
+  },
+  {
+    "id": "party_004",
+    "text": "Neem een slokje van je drankje en imiteer daarna een beroemde Nederlander.",
+    "punishment": "Imiteer zonder drankje een beroemde Nederlander voor 15 seconden.",
+    "tags": ["alc"],
+    "type": "normal"
+  },
+  {
+    "id": "party_005",
+    "text": "Vertel je beste party-verhaal van de afgelopen 12 maanden.",
+    "punishment": "Vertel het minst spannende moment van de afgelopen 12 maanden.",
+    "tags": [],
+    "type": "normal"
+  },
+  {
+    "id": "party_006",
+    "text": "Doe een charade van een bekende film of serie totdat de groep het raadt.",
+    "punishment": "Noem de film of serie en beschrijf hem in één zin zonder hem te spelen.",
+    "tags": [],
+    "type": "normal"
+  },
+  {
+    "id": "party_007",
+    "text": "Maak een groepsselfie met iedereen en stuur hem direct naar je WhatsApp-status.",
+    "punishment": "Maak een solo-selfie met de raarste pose die je kunt en stuur hem naar de groepschat.",
+    "tags": [],
+    "type": "normal"
+  },
+  {
+    "id": "party_008",
+    "text": "Geef iemand in de groep een 5-sterren Google-recensie — hardop, in stijl.",
+    "punishment": "Geef diezelfde persoon een waardering uit 10 met een slogan.",
+    "tags": [],
+    "type": "normal"
+  },
+  {
+    "id": "party_009",
+    "text": "Doe het beste dansje van de avond en laat de groep het scoren van 1 tot 10.",
+    "punishment": "Doe één dansbeweging en laat die scoren.",
+    "tags": [],
+    "type": "normal"
+  },
+  {
+    "id": "party_010",
+    "text": "Laat de groep een liedje kiezen en zing de eerste couplet volledig a cappella.",
+    "punishment": "Neurie het liedje voor 15 seconden.",
+    "tags": [],
+    "type": "normal"
+  },
+  {
+    "id": "party_011",
+    "text": "Vertel je meest bizarre of onverwachte moment van het afgelopen jaar.",
+    "punishment": "Vertel het meest normale moment van het afgelopen jaar.",
+    "tags": [],
+    "type": "normal"
+  },
+  {
+    "id": "party_012",
+    "text": "Stuur een selfie naar je ouders met de tekst 'het gaat heel goed hier'.",
+    "punishment": "Stuur een emoji naar je ouders.",
+    "tags": [],
+    "type": "normal"
+  },
+  {
+    "id": "party_013",
+    "text": "Organiseer een snelle ronde steen-papier-schaar in de groep en wijs de eindwinnaar aan.",
+    "punishment": "Doe steen-papier-schaar met de persoon naast je.",
+    "tags": [],
+    "type": "normal"
+  },
+  {
+    "id": "party_014",
+    "text": "Doe een impressie van een beroemdheid die de groep kiest — zo lang totdat iemand het raadt.",
+    "punishment": "Zeg één zin in de stem van diezelfde beroemdheid.",
+    "tags": [],
+    "type": "normal"
+  },
+  {
+    "id": "party_015",
+    "text": "Ga buiten staan en roep zo hard als je kunt een tekst die de groep verzint.",
+    "punishment": "Fluister die tekst binnenshuis.",
+    "tags": ["buiten"],
+    "type": "normal"
+  },
+  {
+    "id": "party_016",
+    "text": "Doe buiten 10 jumping jacks terwijl je een liedje zingt dat de groep kiest.",
+    "punishment": "Doe 5 jumping jacks binnenshuis.",
+    "tags": ["buiten"],
+    "type": "normal"
+  },
+  {
+    "id": "party_017",
+    "text": "Maak buiten een groepsfoto bij het meest willekeurige object dat je in 60 seconden kunt vinden.",
+    "punishment": "Maak een foto van het meest willekeurige object binnenshuis.",
+    "tags": ["buiten"],
+    "type": "normal"
+  },
+  {
+    "id": "party_018",
+    "text": "Bedenk en leg een drinkspel uit waarbij de hele groep meedoet.",
+    "punishment": "Vertel de regels van een drinkspel dat je al kent.",
+    "tags": ["alc"],
+    "type": "normal"
+  },
+  {
+    "id": "party_019",
+    "text": "Neem een slok voor elke regel in het drinkspel-lijstje dat de groep noemt.",
+    "punishment": "Tel hardop hoeveel slokken je had moeten nemen.",
+    "tags": ["alc"],
+    "type": "normal"
+  },
+  {
+    "id": "party_020",
+    "text": "Vertel je meest gênante avond-verhaal ooit — volledig, met alle details.",
+    "punishment": "Vertel alleen het begin van dat verhaal.",
+    "tags": ["avond"],
+    "type": "normal"
+  },
+  {
+    "id": "party_021",
+    "text": "Doe de volgende 5 minuten mee met elke actie van de persoon rechts van je.",
+    "punishment": "Doe 1 minuut lang alles na wat diezelfde persoon doet.",
+    "tags": [],
+    "type": "normal"
+  },
+  {
+    "id": "party_022",
+    "text": "Doe een standup-comedy routine van 1 minuut over de avond tot nu toe.",
+    "punishment": "Vertel één grap over de avond.",
+    "tags": [],
+    "type": "normal"
+  },
+  {
+    "id": "party_023",
+    "text": "Laat de groep je zingen beoor-delen: doe 30 seconden karaoke op een liedje dat zij kiezen.",
+    "punishment": "Hum hetzelfde liedje voor 10 seconden.",
+    "tags": [],
+    "type": "normal"
+  },
+  {
+    "id": "party_024",
+    "text": "Verzin een cocktailnaam voor iedereen in de groep op basis van hun persoonlijkheid.",
+    "punishment": "Verzin een cocktailnaam voor de persoon links van je.",
+    "tags": ["alc"],
+    "type": "normal"
+  }
+]

@@ -1,0 +1,156 @@
+[
+  {
+    "id": "crazy_001",
+    "text": "Doe een hartstochtelijke liefdesverklaring aan een willekeurig object in de ruimte.",
+    "punishment": "Vertel wat je zou zeggen als je echt verliefd was op dat object.",
+    "tags": [],
+    "type": "normal"
+  },
+  {
+    "id": "crazy_002",
+    "text": "Maak het geluid van drie verschillende dieren tegelijk voor 15 seconden.",
+    "punishment": "Doe het geluid van één dier zo realistisch mogelijk.",
+    "tags": [],
+    "type": "normal"
+  },
+  {
+    "id": "crazy_003",
+    "text": "Praat voor de komende 3 minuten alleen achterstevoren — zeg elke zin van achter naar voren.",
+    "punishment": "Zeg één zin achterstevoren zo snel mogelijk.",
+    "tags": [],
+    "type": "normal"
+  },
+  {
+    "id": "crazy_004",
+    "text": "Geef een hartstochtelijke toespraak over een onderwerp dat de groep kiest.",
+    "punishment": "Vertel in 10 seconden waarom dat onderwerp eigenlijk heel belangrijk is.",
+    "tags": [],
+    "type": "normal"
+  },
+  {
+    "id": "crazy_005",
+    "text": "Doe alsof je een alien bent die voor het eerst een lepel ziet en leg uit wat het is.",
+    "punishment": "Leg een willekeurig voorwerp uit als alien met 3 woorden.",
+    "tags": [],
+    "type": "normal"
+  },
+  {
+    "id": "crazy_006",
+    "text": "Vertel een verhaal waarbij elke zin begint met de volgende letter van het alfabet (A t/m Z).",
+    "punishment": "Maak één zin die begint met A, één met B en één met C.",
+    "tags": [],
+    "type": "normal"
+  },
+  {
+    "id": "crazy_007",
+    "text": "Doe de rest van de ronde alles alsof de vloer lava is.",
+    "punishment": "Spring drie keer op alsof je de vloer wil vermijden.",
+    "tags": [],
+    "type": "normal"
+  },
+  {
+    "id": "crazy_008",
+    "text": "Imiteer een YouTube-vlogger die zijn dag documenteert — live, nu, voor 45 seconden.",
+    "punishment": "Zeg iets dat een typische vlogger zou zeggen bij het eind van een video.",
+    "tags": [],
+    "type": "normal"
+  },
+  {
+    "id": "crazy_009",
+    "text": "Vertel een mop die je zelf verzint — hoe slechter hoe beter.",
+    "punishment": "Zeg de slechtste woordgrap die je kent.",
+    "tags": [],
+    "type": "normal"
+  },
+  {
+    "id": "crazy_010",
+    "text": "Doe alsof je een reclame maakt voor een product dat de groep verzint.",
+    "punishment": "Bedenk een slagzin voor dat product.",
+    "tags": [],
+    "type": "normal"
+  },
+  {
+    "id": "crazy_011",
+    "text": "Stuur het bericht 'Ik heb iets ontdekt' naar een willekeurige persoon uit je contacten en laat de reactie zien.",
+    "punishment": "Stuur een mysterieuze emoji naar diezelfde persoon.",
+    "tags": [],
+    "type": "normal"
+  },
+  {
+    "id": "crazy_012",
+    "text": "Doe 1 minuut lang alles in slow motion — lopen, praten, drinken, alles.",
+    "punishment": "Doe 10 seconden lang alles in slow motion.",
+    "tags": [],
+    "type": "normal"
+  },
+  {
+    "id": "crazy_013",
+    "text": "Geef de persoon links van je een Yelp-recensie alsof ze een restaurant zijn.",
+    "punishment": "Geef diezelfde persoon een beoordeling uit 5 sterren met één woord als uitleg.",
+    "tags": [],
+    "type": "normal"
+  },
+  {
+    "id": "crazy_014",
+    "text": "Speel een complete opera van 30 seconden over hoe je avond tot nu toe is gegaan.",
+    "punishment": "Zing één zin over je avond zo dramatisch mogelijk.",
+    "tags": [],
+    "type": "normal"
+  },
+  {
+    "id": "crazy_015",
+    "text": "Doe de moonwalk (of een poging daartoe) terwijl je een willekeurig lied neuriët.",
+    "punishment": "Loop 5 stappen achteruit zo soepel mogelijk.",
+    "tags": [],
+    "type": "normal"
+  },
+  {
+    "id": "crazy_016",
+    "text": "Vertel het verhaal van Roodkapje in 45 seconden maar met jezelf als hoofdpersoon.",
+    "punishment": "Vertel alleen het begin van dat verhaal in 15 seconden.",
+    "tags": [],
+    "type": "normal"
+  },
+  {
+    "id": "crazy_017",
+    "text": "Doe alsof je een schip kapiteint dat zinkt en geef 30 seconden lang orders aan de groep.",
+    "punishment": "Roep één noodorder naar de groep.",
+    "tags": [],
+    "type": "normal"
+  },
+  {
+    "id": "crazy_018",
+    "text": "Maak een pep talk voor de persoon rechts van je — zo motiverend en overdreven mogelijk.",
+    "punishment": "Zeg één motiverende zin tegen diezelfde persoon.",
+    "tags": [],
+    "type": "normal"
+  },
+  {
+    "id": "crazy_019",
+    "text": "Leg uit hoe je een boterham smeert alsof je een NASA-wetenschapper bent die een Mars-missie leidt.",
+    "punishment": "Leg één stap van boterham smeren zo technisch mogelijk uit.",
+    "tags": [],
+    "type": "normal"
+  },
+  {
+    "id": "crazy_020",
+    "text": "Doe de meest dramatische val ter wereld en sta dan heel gewoon weer op.",
+    "punishment": "Struikel op een neppe manier voor 3 seconden.",
+    "tags": [],
+    "type": "normal"
+  },
+  {
+    "id": "crazy_021",
+    "text": "Probeer 30 seconden lang een serieus gesprek te voeren terwijl je de grappigste gezichtsuitdrukking maakt die je kunt.",
+    "punishment": "Maak je grappigste gezicht voor 5 seconden.",
+    "tags": [],
+    "type": "normal"
+  },
+  {
+    "id": "crazy_022",
+    "text": "Doe alsof je een documentaire over jezelf maakt en vertel wie jij bent aan het 'publiek'.",
+    "punishment": "Beschrijf jezelf in één dramatische documentaire-zin.",
+    "tags": [],
+    "type": "normal"
+  }
+]

@@ -1,0 +1,156 @@
+[
+  {
+    "id": "casual_001",
+    "text": "Vertel je meest embarrassante moment ooit.",
+    "punishment": "Doe 15 sit-ups.",
+    "tags": [],
+    "type": "normal"
+  },
+  {
+    "id": "casual_002",
+    "text": "Stuur een willekeurige GIF naar een familielid en laat de reactie zien.",
+    "punishment": "Stuur in plaats daarvan een hart-emoji naar diezelfde persoon.",
+    "tags": [],
+    "type": "normal"
+  },
+  {
+    "id": "casual_003",
+    "text": "Imiteer iemand anders in de groep totdat iemand raadt wie het is.",
+    "punishment": "Beschrijf in één zin wat je het grappigst vindt aan jezelf.",
+    "tags": [],
+    "type": "normal"
+  },
+  {
+    "id": "casual_004",
+    "text": "Lees je meest recente WhatsApp-bericht hardop voor aan de groep.",
+    "punishment": "Doe 10 push-ups.",
+    "tags": [],
+    "type": "normal"
+  },
+  {
+    "id": "casual_005",
+    "text": "Spreek voor de volgende 2 minuten alleen in rijmpjes.",
+    "punishment": "Zeg iets liefs tegen iedereen in de groep.",
+    "tags": [],
+    "type": "normal"
+  },
+  {
+    "id": "casual_006",
+    "text": "Doe een push-up voor elke persoon in de groep.",
+    "punishment": "Spring 20 keer op en neer.",
+    "tags": [],
+    "type": "normal"
+  },
+  {
+    "id": "casual_007",
+    "text": "Maak een selfie met een rare pose en stuur hem naar de groepschat.",
+    "punishment": "Stuur in plaats daarvan je slechtste foto van de avond.",
+    "tags": [],
+    "type": "normal"
+  },
+  {
+    "id": "casual_008",
+    "text": "Zing je favoriete liedje zonder muziek totdat iemand het raadt.",
+    "punishment": "Fluit 30 seconden lang een deuntje dat je zelf verzint.",
+    "tags": [],
+    "type": "normal"
+  },
+  {
+    "id": "casual_009",
+    "text": "Vertel je allerergste date-ervaring.",
+    "punishment": "Beschrijf je ideale date in 30 seconden.",
+    "tags": [],
+    "type": "normal"
+  },
+  {
+    "id": "casual_010",
+    "text": "Laat de groep een foto op je telefoon kiezen die je dan moet uitleggen.",
+    "punishment": "Vertel iets pijnlijks over jezelf dat niemand hier weet.",
+    "tags": [],
+    "type": "normal"
+  },
+  {
+    "id": "casual_011",
+    "text": "Doe de slechtste grappige stem die je kunt voor 30 seconden.",
+    "punishment": "Zeg de alfabet achtersteknoven zo snel mogelijk.",
+    "tags": [],
+    "type": "normal"
+  },
+  {
+    "id": "casual_012",
+    "text": "Vertel een compliment aan iedere persoon in de groep.",
+    "punishment": "Zeg iets positiefs over jezelf hardop.",
+    "tags": [],
+    "type": "normal"
+  },
+  {
+    "id": "casual_013",
+    "text": "Stuur je beste vriend een bericht: 'We moeten praten' en wacht op de reactie.",
+    "punishment": "Stuur diezelfde persoon een hartje en laat de reactie zien.",
+    "tags": [],
+    "type": "normal"
+  },
+  {
+    "id": "casual_014",
+    "text": "Leg uit waarom je favoriete film jouw leven heeft veranderd — in 60 seconden.",
+    "punishment": "Benoem drie films die je al heel lang wil zien maar nooit hebt gedaan.",
+    "tags": [],
+    "type": "normal"
+  },
+  {
+    "id": "casual_015",
+    "text": "Beschrijf je dag tot nu toe als een episch avontuur vol gevaar en drama.",
+    "punishment": "Beschrijf de meest saaie dag die je ooit had.",
+    "tags": [],
+    "type": "normal"
+  },
+  {
+    "id": "casual_016",
+    "text": "Vertel iets over jezelf dat niemand hier weet.",
+    "punishment": "Vertel je meest onverwachte hobby of interesse.",
+    "tags": [],
+    "type": "normal"
+  },
+  {
+    "id": "casual_017",
+    "text": "Bel je moeder of vader op en zing 'Happy Birthday' — ook als het niet hun verjaardag is.",
+    "punishment": "Stuur een voice memo van jezelf die 'Happy Birthday' zingt.",
+    "tags": [],
+    "type": "normal"
+  },
+  {
+    "id": "casual_018",
+    "text": "Doe alsof je een nieuwslezer bent en vertel het laatste nieuws van de avond.",
+    "punishment": "Vertel in telegramstijl wat je de komende week gaat doen.",
+    "tags": [],
+    "type": "normal"
+  },
+  {
+    "id": "casual_019",
+    "text": "Laat de groep door je foto-album scrollen voor exact 10 seconden.",
+    "punishment": "Vertel wat er op de meest recente foto op je telefoon staat.",
+    "tags": [],
+    "type": "normal"
+  },
+  {
+    "id": "casual_020",
+    "text": "Doe 20 seconden lang je beste dansje zonder muziek.",
+    "punishment": "Klap een ingewikkeld ritme na dat de groep voordoet.",
+    "tags": [],
+    "type": "normal"
+  },
+  {
+    "id": "casual_021",
+    "text": "Vertel de meest absurde theorie die je ooit hebt gehad.",
+    "punishment": "Vertel iets dat je al heel lang wil vragen maar nooit durft.",
+    "tags": [],
+    "type": "normal"
+  },
+  {
+    "id": "casual_022",
+    "text": "Doe de persoon rechts van je na voor precies 1 minuut.",
+    "punishment": "Zeg drie eigenschappen van de persoon rechts van je.",
+    "tags": [],
+    "type": "normal"
+  }
+]
