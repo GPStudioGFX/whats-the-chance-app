@@ -6,6 +6,12 @@ Alle noemenswaardige wijzigingen aan dit project worden hier bijgehouden.
 
 ## [Unreleased]
 
+### Toegevoegd — Fase 4: PvGame game loop
+- Dare + invoer scherm (`src/app/game/input.tsx`): random speler, dare tonen, kans (1/X) en getal invoeren, validatie
+- Reveal animatie (`src/app/game/reveal.tsx`): slot machine effect via Reanimated, genereert app-getal, navigeert naar result of safe
+- Verloren scherm (`src/app/game/result.tsx`): "OUCH!", dare tekst, kleine opdracht als alternatief, volgende speler
+- Veilig scherm (`src/app/game/safe.tsx`): "VEILIG!", spring-animatie, volgende speler
+
 ### Toegevoegd — Fase 3: PvP game loop
 - Dare scherm (`src/app/game/dare.tsx`): toont random dare uit geselecteerde thema's, "Volgende" knop laadt volgende dare, teller bovenaan, "← Stop" reset spel en keert terug naar Home
 
