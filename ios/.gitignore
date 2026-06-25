@@ -1,0 +1,10 @@
+# CocoaPods - genereer opnieuw met: pod install
+Pods/
+
+# Xcode build output
+build/
+DerivedData/
+
+# Xcode user files
+*.xcuserstate
+xcuserdata/
